@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: 0_intro
+chapters:
+- file: 1_getdata
+- file: 2_retorno_risco
+- file: 3_portifolio
+- file: 4_ts
+- file: 5_tt
